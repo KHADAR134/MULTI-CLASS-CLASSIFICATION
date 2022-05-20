@@ -1,4 +1,6 @@
-# MULTI-CLASS-CLASSIFICATION
+### EXPERIMENT NO:03
+### DATE: 11.04.2022
+# <p align="center">MULTI-CLASS-CLASSIFICATION<p/>
 ## Aim:
 To write a python program to implement the multi class classification algorithm .
 
@@ -17,11 +19,11 @@ In multi-class classification, the neural network has the same number of output 
 
 ## Program:
 ```
-/*
 Program to implement the multi class classifier.
 Developed by: SHAIK KHADAR BASHA
 RegisterNumber: 212220230045
-*/
+```
+```python
 from numpy import where
 from collections import Counter
 from sklearn.datasets import make_blobs
